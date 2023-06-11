@@ -2,11 +2,11 @@
 
 # Introduction
 A simple app includes these following features:
-1. Introducing the product in a convenience store 
-2. The landmark and landmark information in our university
-3. Phone calls 
-4. Mail texting
-5. Shopping cart system … etc.
+1. The landmark and landmark information in our university
+2. Webside & Contact system
+3. Product List & Product Information in convenience store
+4. Shopping cart system
+5. Self information
 
 # Features
 
