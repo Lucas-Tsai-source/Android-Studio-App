@@ -1,7 +1,12 @@
 # Android-Studio-App
 
 # Introduction
-An simple app that includes these following features: introducing the product in a convenience store, the landmark in our university, also phone calls, mail texting, shopping cart system …etc.
+A simple app includes these following features:
+1. Introducing the product in a convenience store 
+2. The landmark in our university, also 
+3. Phone calls 
+4. Mail texting
+5. Shopping cart system … etc.
 
 # Features
 
