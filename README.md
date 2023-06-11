@@ -3,7 +3,7 @@
 # Introduction
 A simple app includes these following features:
 1. Introducing the product in a convenience store 
-2. The landmark in our university, also 
+2. The landmark and landmark information in our university
 3. Phone calls 
 4. Mail texting
 5. Shopping cart system … etc.
